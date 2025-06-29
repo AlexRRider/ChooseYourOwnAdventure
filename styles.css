@@ -1,5 +1,10 @@
 body {
     margin: 0;
-    background: green;
+    background-color:azure;
     text-align: center;
 }
+
+.title {
+    background-color: red;
+}
+
