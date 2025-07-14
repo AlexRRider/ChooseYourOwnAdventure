@@ -22,12 +22,12 @@ main {
     border-color: white;
     border-style: solid;
     margin: 0% 5%;
-    padding: 0px 5px 5px;
+    padding: 5px 5px 5px;
     text-align: left;
 }
 
 main p {
-    margin: 10px 5px;
+    margin: 5px 5px;
 }
 
 section {
@@ -51,4 +51,37 @@ div {
     border-color: rgb(90, 45, 14);
     border-style: solid;
     background-color: rgb(164, 121, 72);
+}
+
+div.table {
+    width: 85%;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+table {
+    border-style: solid;
+    border-spacing: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+td {
+    border-style: solid;
+    border-color: gray;
+    width: 50%;
+    padding: 5px;
+}
+
+section p {
+    margin: 0 5%;
 }
